@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: gray;
+}
+
+div {
+    width: 400px;
+    height: 300px;
+    border: solid black 2px;
+    background-color: white;
+}
+
+svg:hover #svg_15 {
+    transform: scale(.9)
+}
+
+#svg_15 {
+    transition: all .5s;
+}
