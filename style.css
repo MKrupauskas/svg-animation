@@ -13,7 +13,8 @@ div {
 }
 
 svg:hover #svg_15 {
-    transform: scale(.9)
+    transform: scale(.9);
+    transform: translateY()
 }
 
 #svg_15 {
