@@ -12,11 +12,11 @@ div {
     background-color: white;
 }
 
-svg:hover #svg_15 {
+svg:hover {
     transform: scale(.9);
     transform: translateY()
 }
 
-#svg_15 {
+svg {
     transition: all .5s;
 }
